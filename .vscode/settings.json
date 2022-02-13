@@ -1,0 +1,19 @@
+{
+    "search.searchEditor.doubleClickBehaviour": "openLocationToSide",
+    "search.seedOnFocus": true,
+    "editor.fontFamily": "'Fira Code Retina','Droid Sans Mono', 'monospace', monospace",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "git-graph.enhancedAccessibility": true,
+    "terminal.integrated.enableShellIntegration": true,
+    "workbench.experimental.layoutControl.enabled": true,
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "timeline.pageOnScroll": true,
+    "npm-intellisense.packageSubfoldersIntellisense": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.letterSpacing": -2,
+    "terminal.integrated.minimumContrastRatio": 4.5
+}
