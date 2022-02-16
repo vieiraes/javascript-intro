@@ -6,9 +6,9 @@ function desafio2(numeros = []) {
     var contador = 0;
     var soma = 0;
     
-    var numeroItemsArray = array.length;
+    var tamanhoArray = array.length;
     
-    for (contador; contador < numeroItemsArray; contador++) {
+    for (contador; contador < tamanhoArray; contador++) {
         
         var posicao = parseInt(array[contador]);
         var soma = soma + posicao;
